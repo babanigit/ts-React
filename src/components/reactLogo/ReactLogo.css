@@ -1,11 +1,14 @@
 
 @font-face {
   font-family: 'pixel';
-  src:  url(./fonts/Minecraft.ttf);
+  src:  url(./fonts/PixelifySans-VariableFont_wght.ttf) format('truetype');
   /* other formats include: 'woff2', 'truetype, 'opentype',
                             'embedded-opentype', and 'svg' */
 }
+.myFont {
+  font-family: 'pixel';
 
+}
 
 #root {
   max-width: 1280px;
